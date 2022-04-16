@@ -1,0 +1,11 @@
+#ignored folder:
+.vscode/
+__pycache__/
+logs/*
+config/
+raw_images/
+golden_images/
+
+#ignored file:
+ui_to_py.bat
+config.ini
